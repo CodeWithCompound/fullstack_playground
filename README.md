@@ -14,3 +14,10 @@ good place for me to practice full stack stuff
 javascript
 node.js + express
 vite
+
+# how it felt
+i considered never touching javascript again, same with html and css
+i will not become a fullstack developer with javascript, no
+i hated the project
+i will learn go for backend because i wanna do backend
+and rust as my personal favourite
